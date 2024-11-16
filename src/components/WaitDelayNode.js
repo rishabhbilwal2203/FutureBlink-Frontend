@@ -74,10 +74,10 @@ const WaitDelayNode = ({ data }) => {
         }}
       >
         <option value="">Select a Duration</option>
-        <option value="5">5 Seconds</option>
-        <option value="10">10 Seconds</option>
-        <option value="15">15 Seconds</option>
-        <option value="30">30 Seconds</option>
+        <option value="1">1 Hour</option>
+        <option value="2">2 Hour</option>
+        <option value="3">3 Hour</option>
+        <option value="4">4 Hour</option>
       </select>
 
       {/* Bottom Handle */}
